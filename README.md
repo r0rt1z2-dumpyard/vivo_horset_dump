@@ -1,0 +1,19 @@
+## raven-user 12 SP2A.220405.004 8233519 release-keys
+- Manufacturer: vivo
+- Platform: 
+- Codename: horset
+- Brand: vivo
+- Flavor: lineage_horset-userdebug
+- Release Version: 12
+- Kernel Version: 4.19.127
+- Id: SQ3A.220705.004
+- Incremental: 1671729122
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/raven/raven:12/SP2A.220405.004/8233519:user/release-keys
+- OTA version: 
+- Branch: raven-user-12-SP2A.220405.004-8233519-release-keys
+- Repo: vivo_horset_dump
